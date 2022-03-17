@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danieledisons
-- 👀 I’m interested in Web & App Development
+- 👀 I’m interested in Web & App Development (React & NextJS)
 - 🌱 I’m currently learning Node JS
 
 <!---
