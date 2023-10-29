@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danieledisons
 - 👀 I’m interested in Web & App Development (React & NextJS)
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning GoLang
 
 <!---
 danieledisons/danieledisons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
